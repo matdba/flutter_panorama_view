@@ -18,6 +18,7 @@ dependencies:
   solar_icons: ^0.0.5
   panorama: ^0.4.1
   image_picker: ^1.1.2
+  fluttertoast: ^8.2.10
 
 dev_dependencies:
   flutter_test:
